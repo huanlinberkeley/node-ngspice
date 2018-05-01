@@ -1,0 +1,25 @@
+{
+  "name": "ngspice",
+  "version": "0.0.1",
+  "description": "node bindings for ngspice (circuit simulator)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Higuoxing/node-ngspice.git"
+  },
+  "keywords": [
+    "circuit",
+    "simulator",
+    "node",
+    "binding"
+  ],
+  "author": "Xing GUO",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Higuoxing/node-ngspice/issues"
+  },
+  "homepage": "https://github.com/Higuoxing/node-ngspice#readme"
+}
